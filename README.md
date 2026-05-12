@@ -2,7 +2,7 @@
 
 每周一期，盘点 **OPC（One-Person Company，一人公司）/ Solopreneur / Indie Hacker** 们靠 AI 赚钱、省钱、做副业的真实案例。
 
-数据来源：每周从 X 上 AI 圈采集的推文中筛选、整理。
+数据来源：每周采集的推文中筛选、整理。
 
 ## 期刊
 
